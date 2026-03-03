@@ -1,7 +1,7 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
 # 💫 Hi 👋, I'm Md.Imam Hassan Chowdhury
-<img align="right" alt="Coding" width="320" src="https://i.pinimg.com/originals/ed/ec/57/edec57b70e496d6310c0ba533909acb2.gif">
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/ed/ec/57/edec57b70e496d6310c0ba533909acb2.gif">
 **A passionate frontend developer from Bangladesh**
 
 - 🌱 **I’m currently learning:** JavaScript
