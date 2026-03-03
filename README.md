@@ -14,5 +14,3 @@
 <h3 align="left">Connect with me:</h3>
 
 <h3 align="left">Languages and Tools:</h3>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imam-programmer&" alt="imam-programmer" /></p>
