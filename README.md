@@ -2,7 +2,7 @@
 
 # 💫 Hi 👋, I'm Md.Imam Hassan Chowdhury
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/ed/ec/57/edec57b70e496d6310c0ba533909acb2.gif">
-**A passionate frontend developer from Bangladesh**
+<h2>A passionate frontend developer from Bangladesh</h2>
 
 - 🌱 **I’m currently learning:** JavaScript
 - 💬 **Ask me about:** Html,Css,Bootstrap
