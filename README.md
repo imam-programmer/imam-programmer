@@ -1,10 +1,9 @@
 <img alt="Coding"  src="https://i.pinimg.com/originals/ed/ec/57/edec57b70e496d6310c0ba533909acb2.gif">
 
 # 💫 Hi 👋, I'm Md.Imam Hassan Chowdhury
-<h2>A passionate frontend developer from Bangladesh</h2>
+<h2>I'm a Full-Stack Developer</h2>
 
-- 🌱 **I’m currently learning:** JavaScript
-- 💬 **Ask me about:** Html,Css,Bootstrap
+- 💬 **Ask me about:** development
 - 📫 **How to reach me:** imamprogrammer09@gmail.com
 - 😄 **Pronouns:** Imam
 - ⚡ **Fun fact:** I Love Programming
